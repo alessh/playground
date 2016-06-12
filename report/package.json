@@ -1,0 +1,14 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsreport": "^0.13.5"
+  }
+}
