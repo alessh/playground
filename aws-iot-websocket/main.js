@@ -7,7 +7,7 @@ import websocket from 'websocket-stream';
 const AWS_ACCESS_KEY = 'AKIAJHHEDIHU3ZQW2ZPQ';
 const AWS_SECRET_ACCESS_KEY = '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';
 const AWS_IOT_ENDPOINT_HOST = 'A2P1UO6NYTQZKP.iot.us-east-1.amazonaws.com';
-const MQTT_TOPIC = '/aws/things/node-red/shadow/update';
+const MQTT_TOPIC = 'debug';
 
 var client;
 addLogEntry('Hello World!');

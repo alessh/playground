@@ -1,5 +1,6 @@
 /*
 usage: ./node_modules/.bin/webpack-dev-server --colors
+localhost:8080
 */
 
 var path = require('path');
